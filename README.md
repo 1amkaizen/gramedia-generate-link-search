@@ -1,7 +1,8 @@
 # gramedia-generate-link-search
 
-Tools ini di gunakan untuk generate link affiliate dari [affiliate gramedia](https://aff.gramedia.com/s/MrHMDcJDbt) dengan pencarian
-Tools ini sama dengan [gramedia-generate-link](https://github.com/1amkaizen/gramedia-generate-link/),tapi ini mengguakan pencarian untuk generate nya
+Tools ini di gunakan untuk melakukan pencarian produk affiliate dan otomatis klik button generate link affiliate dari [affiliate gramedia](https://aff.gramedia.com/s/MrHMDcJDbt).
+
+Tools ini sama dengan [gramedia-generate-link](https://github.com/1amkaizen/gramedia-generate-link/),tapi ini mengguakan pencarian untuk generate link produknya agar lebih spesifik.
 ### persiapan
 Sebelum menjalankan kodenya harus export dulu email dan password untuk login ke [affiliate gramedia](https://aff.gramedia.com/s/MrHMDcJDbt) nya
 
