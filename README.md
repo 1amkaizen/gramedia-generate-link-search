@@ -17,6 +17,7 @@ export PASSWORD="yourpassword"
 python3 main.py -q "judul buku"
 ```
 Contoh
+
 ```bash
 python3 main.py -q "arduino"
 ```
@@ -24,7 +25,8 @@ python3 main.py -q "arduino"
 flag `-q` ini untuk mengatur query dalam pencarian
 
 jika seperti ini berarti berhasil login
-``bash
+
+```bash
 Opened login page.
 Entered email and password.
 Clicked login button.
@@ -32,6 +34,7 @@ Login successful, current URL: https://affiliate.gramedia.com/dashboard
 ```
 
 Tampilannya akan seperti ini
+
 ```bash
 Opened login page.
 Entered email and password.
